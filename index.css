@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    color: #eeeeee;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 70pxpx;
+    margin-bottom: 15px
+}
+
+.points{
+    
+ 
+}
+
+#home-points{
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    border-radius: 5px;
+    background-color: #080001;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    font-size: 90px;
+    text-align: center;
+    
+}
+
+#guest-points{
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 82px;
+    border-radius: 5px;
+    background-color: #080001;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    font-size: 90px;
+    text-align: center;
+    
+    
+}
+
+.home-btns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px
+}
+
+.guest-btns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px
+}
+
+button{
+    background-color: #1B244A;
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    width: 45px 45px;
+    color: white;
+    padding: 8px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+                                     
+    
+}
